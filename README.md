@@ -30,7 +30,11 @@ Credits
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
+Før imag
+
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+
+Efter mimage
 
 Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
 
