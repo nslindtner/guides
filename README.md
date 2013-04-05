@@ -26,7 +26,7 @@ A note on the language:
 Credits
 -------
 
-[testingNSL]
+[testingNSL](http:/dr.dk)
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
