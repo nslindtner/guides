@@ -1,6 +1,7 @@
 Guides
 ======
 
+ADDED IN MY OWN FORK
 Guides for getting things done, programming well, and programming in style.
 
 * Product Management with [Trello](/product-management/trello)
@@ -24,6 +25,8 @@ A note on the language:
 
 Credits
 -------
+
+[testingNSL]
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
